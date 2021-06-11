@@ -1,0 +1,79 @@
+0001,YouTube,900,https://www.youtube.com/,youtube,videos,online
+0002,Netflix,800,https://www.netflix.com/br/,netflix,videos,streaming
+0003,Facebook,840,https://facebook.com/,social,videos,family,friends
+0004,Sohu,846,https://www.sohu.com,noticias,china
+0005,Login.tmall.com,145,https://login.tmall.com,shopping,china,lojas,roupa
+0006,Taobao,423,https://www.taobao.com,shopping,china,online,loja
+0007,360 Safeguard,672,https://www.360.cn,seguranca,china,software
+0008,Jingdong Mall,347,https://www.jd.com,china,shopping
+0009,Yahoo!,890,https://www.yahoo.com,pesquisa,buscas,noticias
+0010,Amazon,976,https://www.amazon.com,video
+0011,Wikipedia,999,https://www.wikipedia.org,video
+0012,Sina Weibo,413,https://www.weibo.com,video
+0013,Sina Corp,456,https://www.sina.com.cn,video
+0014,Pages.tmall.com,812,https://www.Pages.tmall.com,video
+0015,Reddit,877,https://www.reddit.com,video
+0016,Live.com,243,https://www.live.com,video
+0017,Netflix,896,https://www.netflix.com,video
+0018,Okezone.com,324,https://www.Okezone.com,video
+0019,VK,152,https://www.vk.com,video
+0020,Google,999,https://www.Google.com,video
+0021,YouTube,972,https://www.youtube.com,video
+0022,Tmall,102,https://www.tmall.com,video
+0023,Facebook,542,https://www.facebook.com,video
+0024,Baidu,853,https://www.baidu.com,video
+0025,Tencent QQ,146,https://www.qq.com,video
+0026,Bongacams.com,112,https://www.Bongacams.com,video
+0027,Alipay.com,73,https://www.Alipay.com,video
+0028,Csdn.net,378,https://www.Csdn.net,video
+0029,Xinhuanet.com,1,https://www.Xinhuanet.com,video
+0030,Blogspot,832,https://www.blogspot.com,video
+0031,Livejasmin.com,154,https://www.Livejasmin.com,video
+0032,Instagram,742,https://www.instagram.com,video
+0033,Bing,532,https://www.bing.com,video
+0034,Babytree.com,324,https://www.Babytree.com,video
+0035,Office Online,134,https://www.office.com,video
+0036,Google Hong Kong,612,https://www.google.com.hk,video
+0037,AliExpress,498,https://www.aliexpress.com,video
+0038,Microsoft,750,https://www.microsoft.com,video
+0039,Twitter,822,https://www.twitter.com,video
+0040,Twitch.tv,943,https://www.twitch.tv,video
+0041,Naver,101,https://www.Naver.com,video
+0042,eBay,722,https://www.ebay.com,video
+0043,Stack Overflow,832,https://www.stackoverflow.com,video
+0044,Google India,612,https://www.google.co.in,video
+0045,Tianya.cn,222,https://www.Tianya.cn,video
+0046,Tribunnews.com,255,https://www.Tribunnews.com,video
+0047,Amazon Japan,786,https://www.amazon.co.jp,video
+0048,Pornhub,421,https://www.pornhub.com,video
+0049,Panda.tv,112,https://www.Panda.tv,video
+0050,Zhanqi.tv,32,https://www.Zhanqi.tv,video
+0051,Amazon.in,655,https://www.Amazon.in,video
+0052,Apple.com,800,https://www.Apple.com,video
+0053,XVideos,144,https://www.xvideos.com,video
+0054,xnxx.com,177,https://www.xnxx.com,video
+0055,Yandex,364,https://www.yandex.ru,video
+0056,Google Brasil,975,https://www.google.com.br,video
+0057,xHamster,23,https://www.xhamster.com,video
+0058,Odnoklassniki,2,https://www.ok.ru,video
+0059,Mail.ru,4,https://www.mail.ru,video
+0060,LinkedIn,888,https://www.linkedin.com,video
+0061,Pinterest,621,https://www.pinterest.com,video
+0062,WhatsApp,223,https://www.whatsapp.com,video
+0063,Amazon Germany,3,https://www.amazon.de,video
+0064,MSN,677,https://www.msn.com,video
+0065,Google Alemanha,256,https://www.google.de,video
+0066,PayPal,864,https://www.PayPal.com,video
+0067,Rakuten Japan,33,https://www.rakuten.co.jp,video
+0068,Amazon Reino Unido,65,https://www.amazon.co.uk,video
+0069,Daum.net,76,https://www.daum.net,video
+0070,Google Japão,321,https://www.google.co.jp,video
+0071,Bilibili.com,12,https://www.bilibili.com,video
+0072,Xvideos2.com,11,https://www.xvideos2.com,video
+0073,Internet Movie Database,775,https://www.imdb.com,video
+0074,Booking.com,898,https://www.booking.com,video
+0075,Roblox.com,345,https://www.roblox.com,video
+0076,9apps.com,655,https://www.9apps.com,video
+0077,Globo.com,789,https://www.globo.com,video
+0078,DuckDuckGo,267,https://www.duckduckgo.com,video
+0079,Docomo.ne.jp,87,https://www.docomo.ne.jp,video

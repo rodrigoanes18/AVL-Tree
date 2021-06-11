@@ -1,0 +1,21 @@
+Sugestão de sites:
+
+usuario insere (char*)palavra_chave
+
+busca a (char*)palavra_chave na avlPalavras
+
+retorna a (PALAVRA_CHAVE*)palavra
+
+pega (AVL*)sites
+
+percorre os sites dessa arvore
+
+pega as (char**)palavras_chave de cada site 
+
+armazena em uma estrutura (avl talvez)
+
+percorre a avl de palavras
+
+  entra na arvore de sites de cada no, insere os sites em uma nova avl de sites (ordenados por relevancia)
+
+imprime os 5 primeiros
