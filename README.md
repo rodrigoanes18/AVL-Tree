@@ -1,14 +1,12 @@
 # AVL-Tree
-AVL Tree implementation in C
 
+## Grupo:
+### Rodrigo Inui Miyake - 11218834
+### Rodrigo Anes Sena de Araújo - 9763064
 
-Grupo:
-Rodrigo Inui Miyake - 11218834
-Rodrigo Anes Sena de Araújo - 9763064
+### Compilador: gcc (Ubuntu) 9.3.0
 
-Compilador: gcc (Ubuntu) 9.3.0
-
-Instruções:
+### Instruções:
 
 O programa inicia carregando uma base de dados de 79 itens. Logo em seguida, é impressa a interface do
 programa e seus comandos. O usuário pode realizar quantas ações quiser e depois sair do programa.
@@ -23,7 +21,7 @@ Ao iniciar o Mini Googlebot, o usuário poderá realizar 8 ações (digitando o 
     7. Sugestão de sites
     8. Finalizar o programa
 
-Justificativa da TAD implementada:
+### Justificativa da TAD implementada:
 
 Neste projeto foi utilizada uma lista encadeada. Ela está armazenada na heap e permite economia de memória.
 Esta implementação não sofre problemas de espaços de memória inutilizados. 
